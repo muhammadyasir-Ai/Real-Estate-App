@@ -1,2 +1,7 @@
 pipeline.pkl
 df.pkl
+venv/
+.vscode/
+__pycache__/
+*.py[cod]
+.env
